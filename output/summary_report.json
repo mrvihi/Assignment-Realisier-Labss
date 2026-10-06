@@ -1,0 +1,10 @@
+{
+    "status": "Run python main.py to populate final output",
+    "books_records_collected": 0,
+    "quotes_records_collected": 0,
+    "total_records_collected": 0,
+    "records_after_cleaning": 0,
+    "records_rejected": 0,
+    "duplicate_records_detected": 0,
+    "final_record_count": 0
+}
